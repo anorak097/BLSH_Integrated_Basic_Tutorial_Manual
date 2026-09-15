@@ -16,13 +16,13 @@ const tocPage = () => {
         class="fixed top-2 right-2 z-50 flex gap-2"
     >
         <a 
-    href="https://github.com/anorak097/BLSH_Integrated_Basic_Tutorial_Manual/blob/main/Integrated%20Basic%20Tutorial%20Manual%20-%20Slidev.pdf"
-    target="_blank"
-    download
-    class="inline-flex items-center justify-center p-2 rounded-full bg-gray-400 bg-opacity-10 hover:bg-opacity-20 border border-gray-500 border-opacity-20 backdrop-blur-md transition-all active:scale-90 !text-current"
-    title="Download Slidev PDF"
+  href="https://raw.githubusercontent.com/anorak097/BLSH_Integrated_Basic_Tutorial_Manual/main/Integrated%20Basic%20Tutorial%20Manual%20-%20Slidev.pdf"
+  target="_blank"
+  download
+  class="inline-flex items-center justify-center p-2 rounded-full bg-gray-400 bg-opacity-10 hover:bg-opacity-20 border border-gray-500 border-opacity-20 backdrop-blur-md transition-all active:scale-90 !text-current"
+  title="Download Slidev PDF"
 >
-    <lucide:download class="text-xl opacity-60" />
+  <lucide:download class="text-xl opacity-60" />
 </a>
     </div>
     <div 
